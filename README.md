@@ -10,6 +10,11 @@ Images can be downloaded from here: https://drive.google.com/file/d/1ymDYrGs9DSR
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 2884e4762d72b1a3d558d4adcc44b0f731340ded
 ### Train
 
 ```
@@ -21,5 +26,10 @@ python train_val.py
 ### Test
 
 ```
+<<<<<<< HEAD
 *python test.py --resume ./pretrain/checkpoint-PriorNet-200.pth*
 ```
+=======
+python test.py --resume ./pretrain/checkpoint-PriorNet-200.pth
+```
+>>>>>>> 2884e4762d72b1a3d558d4adcc44b0f731340ded
