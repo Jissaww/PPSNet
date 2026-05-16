@@ -23,5 +23,5 @@ python train_val.py
 ### Test
 
 ```
-*python test.py --resume ./pretrain/checkpoint-PriorNet-200.pth*
+python test.py --resume ./pretrain/checkpoint-PriorNet-200.pth
 ```
